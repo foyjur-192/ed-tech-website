@@ -1,3 +1,6 @@
+
+
+
 .App {
   text-align: center;
 }
@@ -27,6 +30,24 @@
 .App-link {
   color: #61dafb;
 }
+
+.background-color{
+  background-color: #2F455C;
+}
+
+.logo{
+ color: #34f5c6;
+}
+
+.button-bg{
+  background: linear-gradient(90deg,  rgba(29,205,254,1) 0%, rgba(52,245,198,1) 100%);
+}
+
+
+
+
+
+
 
 @keyframes App-logo-spin {
   from {
